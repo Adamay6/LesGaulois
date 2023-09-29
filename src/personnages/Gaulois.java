@@ -8,6 +8,13 @@ public class Gaulois {
 	private int effetPotion = 1;
 	
 	
+	
+	
+	public int getForce() {
+		return force;
+	}
+
+	
 	public int getEffetPotion() {
 		return effetPotion;
 	}
